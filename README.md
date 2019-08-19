@@ -1,2 +1,2 @@
 # conversor-moeda-html5
-Conversor de moedas
+Conversor de moedas feito pelo @sapflavio
